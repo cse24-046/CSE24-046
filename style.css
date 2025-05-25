@@ -315,6 +315,14 @@ footer {
     font-size: 1rem;
   }
 }
+.about-us h2 i,
+.about-us h1 i {
+  vertical-align: middle;
+}
+
+.about-us ul li {
+  margin-bottom: 0.5rem;
+}
 
 .feedback-section {
   background: #f5f5f5;
